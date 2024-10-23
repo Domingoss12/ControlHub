@@ -14,3 +14,6 @@
    - **MySQL:** Base de dados para armazenamento de informações de utilizadores, servidores e logs.
    - **Linux (Ubuntu 24.08):** Sistema operativo utilizado para hospedar todos os servidores.
    - **HTML5/CSS3:** Estrutura e estilo do painel de controle.
+
+## Licença
+  Este projeto está licenciado sob a Apache License 2.0. Consulte o arquivo `LICENSE` para mais detalhes.
