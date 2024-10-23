@@ -11,4 +11,4 @@
   Devido a vunerabilidade que este projeto nos servidores da rede, tem que haver uma **BOA** configuração e dar as devidas **Premissões** aos utilizadores certos.
 
 ###### Notas
-######1) Tem que ter premissão para tal
+###### 1) Tem que ter premissão para tal
